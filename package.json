@@ -14,10 +14,10 @@
     "trending design"
   ],
   "homepage": "https://www.froala.com/design-blocks",
-  "license": "https://github.com/froala/angular-froala-design-blocks/blob/master/LICENSE",
+  "license": "https://github.com/froala/vue-froala-design-blocks/blob/master/LICENSE",
   "repository": {
     "type": "git",
-    "url": "git://github.com/froala/angular-froala-design-blocks.git"
+    "url": "git://github.com/froala/vue-froala-design-blocks.git"
   },
   "maintainers": [
     {
