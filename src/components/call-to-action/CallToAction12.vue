@@ -1,0 +1,18 @@
+<template>
+<section class="fdb-block" style="background-image: url(imgs/alt_wide_2.svg);">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-10 col-md-8 col-lg-6 text-left">
+        <h1>Call to Action</h1>
+        <p class="h3">
+          A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+        </p>
+        <p class="mt-4">
+          <a class="btn btn-primary" href="https://www.froala.com">Download</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+</template>

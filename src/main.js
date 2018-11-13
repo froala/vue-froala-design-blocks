@@ -14,6 +14,7 @@ import VueRouter from 'vue-router'
 
 require('../node_modules/bootstrap/dist/css/bootstrap.min.css');
 require('../node_modules/froala-design-blocks/dist/css/froala_blocks.min.css');
+require('../node_modules/font-awesome/css/font-awesome.css');
 
 Vue.config.productionTip = false
 

@@ -1,0 +1,21 @@
+<template>
+<section class="fdb-block fdb-image-bg" style="background-image: url(imgs/alt_wide_2.svg);">
+  <div class="container">
+    <div class="row text-left">
+      <div class="col-12 col-md-8 col-lg-6 ml-sm-auto">
+        <div class="fdb-box fdb-touch">
+          <div class="row justify-content-center">
+            <div class="col-12 col-xl-8 text-center">
+              <h1>Froala Design Blocks</h1>
+              <p class="h3">When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove</p>
+
+              <p class="h3 mt-4"><a href="https://www.froala.com" class="btn btn-primary">Register</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+</template>

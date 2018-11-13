@@ -1,0 +1,28 @@
+<template>
+<section class="fdb-block">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10 col-xl-8 text-center">
+        <div class="row">
+          <div class="col">
+            <h1>Register</h1>
+            <p class="h3">When she reached the first hills, she had a last view back on the skyline of her hometown.</p>
+          </div>
+        </div>
+        <div class="row align-items-center">
+          <div class="col-12 col-md-5 mt-4">
+            <input type="text" class="form-control" placeholder="Email">
+          </div>
+          <div class="col-12 col-md-5 mt-4">
+            <input type="password" class="form-control" placeholder="Password">
+          </div>
+          <div class="col-12 col-md-2 mt-4">
+            <button class="btn btn-primary" type="button">Submit</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+</template>

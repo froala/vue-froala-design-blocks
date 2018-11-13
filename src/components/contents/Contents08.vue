@@ -1,0 +1,18 @@
+<template>
+<section class="fdb-block">
+  <div class="container">
+    <div class="row">
+      <div class="col text-center">
+        <h1>Froala Design Blocks</h1>
+        <h2>Subtitle comes here.</h2>
+        <p class="h3">
+          <a href="https://www.froala.com" class="mx-2">Learn More <i class="fas fa-angle-right"></i></a>
+          <a href="https://www.froala.com" class="mx-2">Buy <i class="fas fa-angle-right"></i></a>
+        </p>
+        <img alt="image" class="img-fluid mt-5" src="/imgs/colors_wide_1.jpg">
+      </div>
+    </div>
+  </div>
+</section>
+
+</template>

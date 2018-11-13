@@ -1,6 +1,6 @@
 <template>
 <div id="app">
-  <section class="fdb-block" style="background-image: url(assets/imgs/alt_wide_1.svg);">
+  <section class="fdb-block" style="background-image: url(/imgs/alt_wide_1.svg);">
     <div class="container">
       <div class="row justify-content-start">
         <div class="col-12 col-sm-10 col-md-8 text-center text-sm-left">
@@ -24,8 +24,8 @@
         <div class="collapse navbar-collapse mt-2 mt-md-0" id="navbarNav0">
           <nav class="m-auto">
             <router-link to="/call-to-action" class="btn btn-outline-primary m-1">Call To Action</router-link>
-            <router-link to="/contacts" class="btn btn-outline-primary m-1">Contents</router-link>
-            <router-link to="/contents" class="btn btn-outline-primary m-1">Contacts</router-link>
+            <router-link to="/contacts" class="btn btn-outline-primary m-1">Contacts</router-link>
+            <router-link to="/contents" class="btn btn-outline-primary m-1">Contents</router-link>
             <router-link to="/features" class="btn btn-outline-primary m-1">Features</router-link>
             <router-link to="/footers" class="btn btn-outline-primary m-1">Footers</router-link>
             <router-link to="/forms" class="btn btn-outline-primary m-1">Forms</router-link>
@@ -45,7 +45,7 @@
 </div>
 </template>
 
-<style>
+<style lang="scss">
 #navigator {
   position: sticky;
   top: 0;
@@ -69,4 +69,10 @@
 #navigator + section {
   padding: 250px 0;
 }
+
+$fa-font-path : "~@fortawesome/fontawesome-free-webfonts/webfonts";
+@import "~@fortawesome/fontawesome-free-webfonts/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free-webfonts/scss/fa-solid.scss";
+@import "~@fortawesome/fontawesome-free-webfonts/scss/fa-regular.scss";
+@import "~@fortawesome/fontawesome-free-webfonts/scss/fa-brands.scss";
 </style>

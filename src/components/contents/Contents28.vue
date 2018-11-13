@@ -1,0 +1,12 @@
+<template>
+<section class="fdb-block fdb-image-bg" style="background: url(imgs/img_bg.jpg)">
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-12">
+        <h1>Made with <i class="fas fa-heart text-danger"></i> by Froala</h1>
+      </div>
+    </div>
+  </div>
+</section>
+
+</template>
