@@ -1,7 +1,29 @@
 {
   "name": "vue-froala-design-blocks",
-  "version": "0.1.0",
-  "private": true,
+  "version": "2.0.0-beta",
+  "description": "An amazing collection of over 170 ready to use design blocks based on Bootstrap.",
+  "keywords": [
+    "froala",
+    "froala design blocks",
+    "html design",
+    "bootstrap",
+    "material design",
+    "html templates",
+    "website design",
+    "html5",
+    "trending design"
+  ],
+  "homepage": "https://www.froala.com/design-blocks",
+  "license": "https://github.com/froala/angular-froala-design-blocks/blob/master/LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/froala/angular-froala-design-blocks.git"
+  },
+  "maintainers": [
+    {
+      "name": "Froala Labs"
+    }
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
