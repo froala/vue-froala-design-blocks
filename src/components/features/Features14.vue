@@ -1,15 +1,15 @@
 <template>
-<section class="fdb-block pb-md-0">
+<section class="fdb-block">
   <div class="container">
     <div class="row text-right align-items-center">
       <div class="col-7 col-md-4 m-auto">
-        <img alt="image" class="img-fluid" src="/imgs/img_very_tall.png">
+        <img alt="image" class="img-fluid" src="/imgs/draws/simple-iphone.svg">
       </div>
 
       <div class="col-12 col-md-7 col-lg-5 m-auto text-left pt-5 pt-md-0">
         <div class="row pb-lg-5">
           <div class="col-3">
-            <img alt="image" class="img-fluid" src="/imgs/img_round.svg">
+            <img alt="image" class="img-fluid" src="/imgs/icons/layers.svg">
           </div>
           <div class="col-9">
             <h3><strong>Feature Seven</strong></h3>
@@ -19,7 +19,7 @@
 
         <div class="row pt-4 pt-md-5 pb-lg-5">
           <div class="col-3">
-            <img alt="image" class="img-fluid" src="/imgs/img_round.svg">
+            <img alt="image" class="img-fluid" src="/imgs/icons/monitor.svg">
           </div>
           <div class="col-9">
             <h3><strong>Feature Seven</strong></h3>
@@ -30,7 +30,7 @@
 
         <div class="row pt-4 pt-md-5">
           <div class="col-3">
-            <img alt="image" class="img-fluid" src="/imgs/img_round.svg">
+            <img alt="image" class="img-fluid" src="/imgs/icons/cloud.svg">
           </div>
           <div class="col-9">
             <h3><strong>Feature Seven</strong></h3>

@@ -8,8 +8,11 @@
             <h1>Froala Design Blocks is Open Source and free to use</h1>
           </div>
         </div>
-
-        <img alt="image" class="img-fluid" src="/imgs/colors_wide_1.jpg">
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-8">
+        <img alt="image" class="img-fluid" src="/imgs/draws/android.svg">
       </div>
     </div>
   </div>

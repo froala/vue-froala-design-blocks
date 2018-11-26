@@ -1,5 +1,5 @@
 <template>
-<section class="fdb-block bg-dark" style="background-image: url(imgs/bg_0.svg);">
+<section class="fdb-block bg-dark" style="background-image: url(imgs/hero/purple.svg);">
   <div class="container">
     <div class="row">
       <div class="col text-center">

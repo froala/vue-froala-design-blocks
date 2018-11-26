@@ -1,5 +1,5 @@
 <template>
-<section class="fdb-block bg-dark" style="background-image: url(imgs/bg_0.svg);">
+<section class="fdb-block bg-dark" style="background-image: url(imgs/hero/blue.svg);">
   <div class="container">
     <div class="row text-center justify-content-center">
       <div class="col-12 col-md-8 col-lg-7">
@@ -36,7 +36,7 @@
           </div>
           <div class="row mt-4">
             <div class="col text-center">
-              <button type="submit" class="btn btn-primary">Submit</button>
+              <button type="submit" class="btn btn-dark">Submit</button>
             </div>
           </div>
         </form>

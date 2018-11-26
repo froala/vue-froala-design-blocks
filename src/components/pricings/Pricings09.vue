@@ -12,7 +12,7 @@
         <div class="bg-gray p-3 text-center rounded sl-1">
           <h2 class="font-weight-light">Startup</h2>
           <p class="h2">$99</p>
-          <p class="text-center"><a href="https://www.froala.com" class="btn btn-outline-primary">Buy Now</a></p>
+          <p class="text-center"><a href="https://www.froala.com" class="btn btn-outline-secondary">Buy Now</a></p>
 
           <hr class="mt-5 mb-5">
 
@@ -26,7 +26,7 @@
         <div class="bg-gray p-3 text-center rounded sl-1">
           <h2 class="font-weight-light">Advanced</h2>
           <p class="h2">$399</p>
-          <p class="text-center"><a href="https://www.froala.com" class="btn btn-primary">Buy Now</a></p>
+          <p class="text-center"><a href="https://www.froala.com" class="btn btn-secondary">Buy Now</a></p>
 
           <hr class="mt-5 mb-5">
 
@@ -40,7 +40,7 @@
         <div class="bg-gray p-3 text-center rounded sl-1">
           <h2 class="font-weight-light">Business</h2>
           <p class="h2">$999</p>
-          <p class="text-center"><a href="https://www.froala.com" class="btn btn-outline-primary">Buy Now</a></p>
+          <p class="text-center"><a href="https://www.froala.com" class="btn btn-outline-secondary">Buy Now</a></p>
 
           <hr class="mt-5 mb-5">
 
@@ -54,7 +54,7 @@
         <div class="bg-gray p-3 text-center rounded sl-1">
           <h2 class="font-weight-light">Enterprise</h2>
           <p class="h2">Call Us</p>
-          <p class="text-center"><a href="https://www.froala.com" class="btn btn-outline-primary">Contact</a></p>
+          <p class="text-center"><a href="https://www.froala.com" class="btn btn-outline-secondary">Contact</a></p>
 
           <hr class="mt-5 mb-5">
 

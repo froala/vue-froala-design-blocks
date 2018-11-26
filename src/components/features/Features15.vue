@@ -1,5 +1,5 @@
 <template>
-<section class="fdb-block pb-0">
+<section class="fdb-block">
   <div class="container">
     <div class="row text-right align-items-center">
       <div class="col-12 col-lg-6 col-xl-5 m-lg-auto text-left">
@@ -8,7 +8,7 @@
 
         <div class="row pt-5">
           <div class="col-3">
-            <img alt="image" class="img-fluid" src="/imgs/img_round.svg">
+            <img alt="image" class="img-fluid" src="/imgs/icons/gift.svg">
           </div>
           <div class="col-9">
             <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences.</p>
@@ -21,13 +21,13 @@
           </div>
 
           <div class="col-3">
-            <img alt="image" class="img-fluid" src="/imgs/img_round.svg">
+            <img alt="image" class="img-fluid" src="/imgs/icons/map-pin.svg">
           </div>
         </div>
       </div>
 
       <div class="col-7 col-sm-4 m-auto pt-5 pt-md-0">
-        <img alt="image" class="img-fluid" src="/imgs/img_very_tall.png">
+        <img alt="image" class="img-fluid" src="/imgs/draws/simple-iphone.svg">
       </div>
     </div>
   </div>

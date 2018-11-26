@@ -1,13 +1,13 @@
 <template>
-<section class="fdb-block" style="background-image: url(imgs/bg_4.svg);">
-  <div class="container">
-    <div class="row justify-content-end">
+<section class="fdb-block py-0">
+  <div class="container py-5 my-5" style="background-image: url(imgs/shapes/4.svg);">
+    <div class=" row justify-content-end">
       <div class="col-12 col-md-8 col-lg-6 col-xl-5 text-left">
         <div class="fdb-box">
           <div class="row">
             <div class="col">
               <h1>Log In</h1>
-              <p class="h3">Right at the coast of the Semantics, a large language ocean. A small river named Duden.</p>
+              <p class="lead">Right at the coast of the Semantics, a large language ocean. A small river named Duden.</p>
             </div>
           </div>
           <div class="row">
@@ -22,7 +22,7 @@
           </div>
           <div class="row mt-4">
             <div class="col">
-              <button class="btn btn-primary" type="button">Submit</button>
+              <button class="btn btn-secondary" type="button">Submit</button>
             </div>
           </div>
         </div>

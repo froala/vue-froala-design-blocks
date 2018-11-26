@@ -4,7 +4,7 @@
     <div class="row justify-content-center">
       <div class="col-12 col-md-8 col-lg-6 text-center">
         <h1>Call to Action</h1>
-        <p class="h3">
+        <p class="lead">
           Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts
         </p>
         <p class="mt-5 mt-sm-4">
@@ -21,8 +21,8 @@
     <div class="row">
       <div class="col-12 text-center">
         <img alt="image" height="30" class="ml-3 mr-3 mb-2 mt-2" src="/imgs/customers/adobe.svg">
-        <img alt="image" height="30" class="ml-3 mr-3 mb-2 mt-2" src="/imgs/customers/discovery.svg">
-        <img alt="image" height="30" class="ml-3 mr-3 mb-2 mt-2 " src="/imgs/customers/ebay.svg">
+        <img alt="image" height="30" class="ml-3 mr-3 mb-2 mt-2" src="/imgs/customers/amazon.svg">
+        <img alt="image" height="30" class="ml-3 mr-3 mb-2 mt-2" src="/imgs/customers/ebay.svg">
         <img alt="image" height="30" class="ml-3 mr-3 mb-2 mt-2" src="/imgs/customers/samsung.svg">
         <img alt="image" height="30" class="ml-3 mr-3 mb-2 mt-2" src="/imgs/customers/orange.svg">
         <img alt="image" height="30" class="ml-3 mr-3 mb-2 mt-2" src="/imgs/customers/salesforce.svg">

@@ -10,7 +10,7 @@
       <div class="col-12 col-md-4">
         <div class="row">
           <div class="col-3">
-            <img alt="image" class="img-fluid" src="/imgs/img_round.svg">
+            <img alt="image" class="fdb-icon" src="/imgs/icons/gift.svg">
           </div>
           <div class="col-9">
             <h3><strong>Feature One</strong></h3>
@@ -22,7 +22,7 @@
       <div class="col-12 col-md-4 pt-3 pt-sm-4 pt-md-0">
         <div class="row">
           <div class="col-3">
-            <img alt="image" class="img-fluid" src="/imgs/img_round.svg">
+            <img alt="image" class="fdb-icon" src="/imgs/icons/cloud.svg">
           </div>
           <div class="col-9">
             <h3><strong>Feature Two</strong></h3>
@@ -34,7 +34,7 @@
       <div class="col-12 col-md-4 pt-3 pt-sm-4 pt-md-0">
         <div class="row">
           <div class="col-3">
-            <img alt="image" class="img-fluid" src="/imgs/img_round.svg">
+            <img alt="image" class="fdb-icon" src="/imgs/icons/map-pin.svg">
           </div>
           <div class="col-9">
             <h3><strong>Feature Three</strong></h3>
@@ -48,7 +48,7 @@
       <div class="col-12 col-md-4">
         <div class="row">
           <div class="col-3">
-            <img alt="image" class="img-fluid" src="/imgs/img_round.svg">
+            <img alt="image" class="fdb-icon" src="/imgs/icons/layers.svg">
           </div>
           <div class="col-9">
             <h3><strong>Feature Four</strong></h3>
@@ -60,7 +60,7 @@
       <div class="col-12 col-md-4 pt-3 pt-sm-4 pt-md-0">
         <div class="row">
           <div class="col-3">
-            <img alt="image" class="img-fluid" src="/imgs/img_round.svg">
+            <img alt="image" class="fdb-icon" src="/imgs/icons/life-buoy.svg">
           </div>
           <div class="col-9">
             <h3><strong>Feature Five</strong></h3>
@@ -72,7 +72,7 @@
       <div class="col-12 col-md-4 pt-3 pt-sm-4 pt-md-0">
         <div class="row">
           <div class="col-3">
-            <img alt="image" class="img-fluid" src="/imgs/img_round.svg">
+            <img alt="image" class="fdb-icon" src="/imgs/icons/layout.svg">
           </div>
           <div class="col-9">
             <h3><strong>Feature Six</strong></h3>
